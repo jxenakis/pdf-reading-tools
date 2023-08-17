@@ -1,5 +1,7 @@
 # Welcome to GitHub
 
+getEquationPropmpts.py lets you highlight text directly before all the equations you want to extract. Then it creates GPT prompts for you that you can simmply cut and paste.
+
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
 ## Repositories
