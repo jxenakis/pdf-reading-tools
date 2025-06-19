@@ -1,4 +1,4 @@
-# PDF Interrogration Tools
+# PDF Interrogation Tools
 
 These are a few of my tools that facilitate PDF interrogration with ChatGPT. To use, activate the virtual environment `cliprompt`.
 
