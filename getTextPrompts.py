@@ -1,4 +1,4 @@
-import fitz
+import fitz #this is fitz from PyMuPDF not the fitz module from the first package
 import sys
 
 if len(sys.argv) != 2:
